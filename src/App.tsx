@@ -476,8 +476,8 @@ export default function App() {
       )}
 
       <footer className="footer">
-        <span>ローカル: npm run dev / 静的配信: npm run build</span>
-        <span>ファン再構成ルール（非公式）</span>
+        <span>ファン再構成（非公式・原作無関係）</span>
+        <a href="/privacy.html">プライバシー</a>
       </footer>
     </div>
   )
